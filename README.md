@@ -1,1 +1,1 @@
-# epic-template-java
+# chassis-template
